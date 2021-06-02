@@ -120,7 +120,7 @@ fastify.get("/coins", (req, res) => {
 
 const hostname = 'localhost';
 const port = 8080;
-fastify.listen(port, hostname, () => {
+fastify.list//en(port, hostname, () => {
     console.log(`server running @ http://${hostname}:${port}/`)
 });
 
