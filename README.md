@@ -127,8 +127,8 @@ fastify.listen(port, hostname, () => {
 ```
 Index.html (provided by proffesor):
 
-[index.html](https://lizz02.github.io/cit281-p3/index.html)
+[index.html](https://github.com/lizz02/cit281-p3/blob/main/index.html)
 
 Node.js configuration file:
 
-[package.json](https://lizz02.github.io/cit281-p3/package.json)
+[package.json](https://github.com/lizz02/cit281-p3/blob/main/package.json)
