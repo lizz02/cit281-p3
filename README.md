@@ -125,7 +125,7 @@ fastify.listen(port, hostname, () => {
 });
 
 ```
-Index.html (provided by proffesor):
+Index.html (provided by professor):
 
 [index.html](https://lizz02.github.io/cit281-p3/index1.html)
 
